@@ -1,0 +1,11 @@
+c:\users\u584\documents\visual studio 2013\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TestTypeScript.dll.config
+c:\users\u584\documents\visual studio 2013\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TestTypeScript.dll
+c:\users\u584\documents\visual studio 2013\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TestTypeScript.pdb
+c:\users\u584\documents\visual studio 2013\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TestTypeScript.dll
+c:\users\u584\documents\visual studio 2013\Projects\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TestTypeScript.pdb
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\bin\TestTypeScript.dll.config
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\bin\TestTypeScript.dll
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\bin\TestTypeScript.pdb
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\obj\Debug\TestTypeScript.csprojResolveAssemblyReference.cache
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\obj\Debug\TestTypeScript.dll
+C:\Users\U584\Documents\Visual Studio 2013\Projects\TestTypeScript\TestTypeScript\obj\Debug\TestTypeScript.pdb
